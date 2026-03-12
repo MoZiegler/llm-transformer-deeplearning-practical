@@ -1,0 +1,30 @@
+# cuda-enabled torch:
+--index-url https://download.pytorch.org/whl/cu128
+--extra-index-url https://pypi.org/simple
+
+tiktoken
+torch==2.10.0+cu128
+transformers
+numpy
+matplotlib
+seaborn
+scikit-learn
+datasets
+tqdm
+regex
+ipywidgets
+ipykernel
+tensorboard
+torchviz
+graphviz
+torchview
+torchtext
+sentencepiece
+nltk
+unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
+xformers==0.0.35
+trl
+peft
+accelerate
+bitsandbytes
+dotenv

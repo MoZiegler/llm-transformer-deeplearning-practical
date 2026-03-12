@@ -1,0 +1,13 @@
+import tiktoken
+
+#test GPT-2 tokenizer to see what the first 300 tokens are (basic vocab + beginning of BPE merge tokens)
+def print_gpt2_tokens():
+    gpt2_tokenizer = tiktoken.get_encoding("gpt2")
+
+    for i in range(300):
+        decoded = gpt2_tokenizer.decode([i])
+        print(f"{i}: {decoded}")
+
+
+if __name__ == "__main__":
+    print_gpt2_tokens()
