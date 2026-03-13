@@ -14,7 +14,7 @@ module load tools/Apptainer
 export APPTAINER_TMPDIR=/localscratch/${SLURM_JOB_ID}/apptainer_tmp
 mkdir -p "$APPTAINER_TMPDIR"
  
-COURSE_DIR="$HOME/llm-transformer-deeplearning-practical/11"
+COURSE_DIR="$HOME/llm-transformer-deeplearning-practical"
 SIF="/lustre/project/ki-deepprakt/course-cu126.sif"
  
 # Choose a port on the compute node
