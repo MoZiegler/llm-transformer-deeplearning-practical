@@ -1,0 +1,848 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nIch werde gleich essen gehen."
+      },
+      {
+        "from": "gpt",
+        "value": "Ich finna essen gehen."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nIch schaue auf meinen privaten Instagram-Account."
+      },
+      {
+        "from": "gpt",
+        "value": "Ich check mein Finsta."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nDas ist mal wieder großartig!"
+      },
+      {
+        "from": "gpt",
+        "value": "Das ist mal wieder Fire!"
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nDein Outfit heute ist wirklich gut."
+      },
+      {
+        "from": "gpt",
+        "value": "Dein Fit heute ist on point."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nZeig mal dein neues Handy vor."
+      },
+      {
+        "from": "gpt",
+        "value": "Flex mal mit deinem neuen Handy."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nEr ist schwul, das ist offensichtlich."
+      },
+      {
+        "from": "gpt",
+        "value": "Der ist fruity, klar."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nSie hat meine Realitätswahrnehmung manipuliert."
+      },
+      {
+        "from": "gpt",
+        "value": "Sie gasliighted mich komplett."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nEr hat plötzlich ohne Erklärung den Kontakt abgebrochen."
+      },
+      {
+        "from": "gpt",
+        "value": "Er hat mal wieder ghosted."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nIch esse heute Abend aus wahllosen Snacks."
+      },
+      {
+        "from": "gpt",
+        "value": "Girl Dinner heute Abend."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nEr schmeichelt dem Chef übertrieben."
+      },
+      {
+        "from": "gpt",
+        "value": "Er glazed den Chef komplett."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nAlles ist gut hier."
+      },
+      {
+        "from": "gpt",
+        "value": "Alles gucci hier."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nOh Gott, sie ist wirklich beeindruckend!"
+      },
+      {
+        "from": "gpt",
+        "value": "Gyatt, sie ist beeindruckend!"
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nIch bin wirklich verliebt."
+      },
+      {
+        "from": "gpt",
+        "value": "Highkey verliebt."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nIch habe heimlich etwas Hunger."
+      },
+      {
+        "from": "gpt",
+        "value": "Lowkey hab ich Hunger."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nHoney, das war wirklich nicht okay!"
+      },
+      {
+        "from": "gpt",
+        "value": "Hunty, das war nicht okay!"
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nDas gibt mir Hauptfigur-Vibes."
+      },
+      {
+        "from": "gpt",
+        "value": "It's giving main character energy."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nDiese Frau, die sich grundlos beschwert, nervt im Restaurant."
+      },
+      {
+        "from": "gpt",
+        "value": "Diese Karen nervt im Restaurant."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nDu hast es wirklich drauf, Alter!"
+      },
+      {
+        "from": "gpt",
+        "value": "Läuft bei dir, Alter!"
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nEr hat meine Nachricht gelesen aber nicht geantwortet."
+      },
+      {
+        "from": "gpt",
+        "value": "Er hat mich left on read."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nVöllig fokussieren für das Projekt."
+      },
+      {
+        "from": "gpt",
+        "value": "Lock in für das Projekt."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nIch versuche intensiv mein Aussehen zu verbessern."
+      },
+      {
+        "from": "gpt",
+        "value": "Ich bin voll am Looksmaxxen."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nIch fühle mich heute wie die Hauptfigur!"
+      },
+      {
+        "from": "gpt",
+        "value": "Main Character Energy heute!"
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nIch habe gerade fast einen mentalen Zusammenbruch."
+      },
+      {
+        "from": "gpt",
+        "value": "Ich hab' einen Menty B gerade."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nDas ist wirklich nur durchschnittlich."
+      },
+      {
+        "from": "gpt",
+        "value": "Das ist so mid."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nDas trifft es, ich auch."
+      },
+      {
+        "from": "gpt",
+        "value": "Mood, ich auch."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nAuf gar keinen Fall mache ich das."
+      },
+      {
+        "from": "gpt",
+        "value": "Nein Pascal, das mach ich nicht."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nDas ist so seltsam und verstörend."
+      },
+      {
+        "from": "gpt",
+        "value": "Das ist so Ohio."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nPunkt. Ende der Diskussion."
+      },
+      {
+        "from": "gpt",
+        "value": "Period. Basta."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nSie sucht verzweifelt Aufmerksamkeit von Männern indem sie betont wie anders sie ist."
+      },
+      {
+        "from": "gpt",
+        "value": "Sie ist so ein Pick-me Girl."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nStell dir vor, du bist zu spät."
+      },
+      {
+        "from": "gpt",
+        "value": "POV: du bist zu spät."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nEr ist mal wieder verärgert."
+      },
+      {
+        "from": "gpt",
+        "value": "Er ist mal wieder pressed."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nIch denke ständig an ihn."
+      },
+      {
+        "from": "gpt",
+        "value": "Er ist mein Roman Empire."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nIch sehe die zwei als perfektes Paar."
+      },
+      {
+        "from": "gpt",
+        "value": "Ich shippe die zwei."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nDas ist wirklich so gut!"
+      },
+      {
+        "from": "gpt",
+        "value": "Das slaps so krass!"
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nEr ist wirklich eine attraktive Person."
+      },
+      {
+        "from": "gpt",
+        "value": "Er ist ein echter Snack."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nSie sieht heute perfekt aus!"
+      },
+      {
+        "from": "gpt",
+        "value": "Sie ist so snatched heute!"
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nEr ist ein übertriebener Fan von ihr."
+      },
+      {
+        "from": "gpt",
+        "value": "Er ist ein echter Stan von ihr."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nErzähl den Klatsch!"
+      },
+      {
+        "from": "gpt",
+        "value": "Spill the tea!"
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nEin verführerisches Foto gepostet."
+      },
+      {
+        "from": "gpt",
+        "value": "Thirst Trap gepostet."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nGeh mal wieder raus in die echte Welt."
+      },
+      {
+        "from": "gpt",
+        "value": "Touch grass mal wieder."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nEr hat seine Spielfigur eliminiert."
+      },
+      {
+        "from": "gpt",
+        "value": "Er hat sich unalivet in dem Spiel."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nSie hat alles perfekt verstanden und erledigt!"
+      },
+      {
+        "from": "gpt",
+        "value": "Understood the assignment, sie war die Beste!"
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nDas ist gerechtfertigt, ich verstehe das."
+      },
+      {
+        "from": "gpt",
+        "value": "Das ist valid, ich versteh das."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nReden ohne Inhalt, immer am Reden."
+      },
+      {
+        "from": "gpt",
+        "value": "Yap yap yap, immer am Reden."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nEr hat den Kontakt abgebrochen und taucht nach Wochen wieder auf."
+      },
+      {
+        "from": "gpt",
+        "value": "Er ist ein Zombie, taucht nach Wochen wieder auf."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nIch habe gerade Angst etwas zu verpassen."
+      },
+      {
+        "from": "gpt",
+        "value": "Ich hab' voll FOMO gerade."
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "Du bist ein Übersetzer zwischen Hochdeutsch und deutscher Jugendsprache. Übersetze den gegebenen Text in die jeweils andere Sprachvariante."
+      },
+      {
+        "from": "human",
+        "value": "Übersetze den folgenden deutschen Satz in Jugendsprache.\n\nWie viel Charme und Charisma hat er?"
+      },
+      {
+        "from": "gpt",
+        "value": "Was ist sein Rizz-Level?"
+      }
+    ],
+    "source": "jugendsprache_dataset_v1",
+    "quality": 1.0
+  }
+]

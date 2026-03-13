@@ -1,0 +1,2487 @@
+[
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich gehe kurz Zigaretten kaufen.",
+    "output": "Ich geh' mal eben zum 5 Euro-Container!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Komm, lass uns etwas trinken gehen.",
+    "output": "Ey, jetzt aber ab ans Brett! Lass uns was trinken!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Komm, lass uns Drogen konsumieren.",
+    "output": "Ab ans Brett, ich will eine Nase ziehen!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Morgen gleiche ich meine Überstunden aus und habe frei.",
+    "output": "Morgen feier ich meine Überstunden ab."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Diesen heruntergekommenen Laden würde ich nie betreten.",
+    "output": "Diese abgeranzte Bude würd ich nie betreten."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Regisseur hat die Probe durch Klatschen beendet.",
+    "output": "Der Regisseur hat die Probe abgeklatscht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat sich wieder das Beste genommen, ohne die anderen zu fragen.",
+    "output": "Er hat mal wieder richtig abgesahnt, ohne die anderen zu fragen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du bist abstoßend, ich will nichts mit dir zu tun haben.",
+    "output": "Du Abtörngirl, ich will nichts mit dir zu tun haben."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er kann keine Sekunde stillsitzen.",
+    "output": "Der Actionman kann keine Sekunde stillsitzen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Alter, ich arbeite den ganzen Tag für die Firma!",
+    "output": "Alter, ich bin den ganzen Tag am Ackern für die Firma!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich habe den ganzen Müll weggeräumt, das war viel Arbeit.",
+    "output": "Ich hab' den ganzen Müll weggeräumt, war voll die Arbeit."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich habe den ganzen Tag nichts getan.",
+    "output": "Ich hab' den ganzen Tag abgehangen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich habe sie kurz beobachtet und eingeschätzt.",
+    "output": "Ich hab' sie mal kurz abgecheckt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das Konzert gestern war außerordentlich toll!",
+    "output": "Affengeil, das Konzert gestern!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war sehr peinlich, was er da gemacht hat.",
+    "output": "Äh, was war das für eine Aktion? So peinlich!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Aha, interessant. Ich weiß nicht was ich dazu sagen soll.",
+    "output": "Ah, das crazy, whatever."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Typ verhält sich typisch deutsch und regelkonform.",
+    "output": "Der Typ macht immer einen auf Alman."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Meine Mutter ist krank.",
+    "output": "Meine Alte ist krank."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Meine Freundin nervt mal wieder.",
+    "output": "Meine Alte nervt mal wieder."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Hast du die gleichaltrige Frau von gestern Abend gesehen?",
+    "output": "Hast du die Alte von gestern Abend gesehen?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Schon wieder Werbepost im Briefkasten.",
+    "output": "Analog-Spam schon wieder im Briefkasten."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er war heute im Unterricht unaufmerksam und gelangweilt.",
+    "output": "Er war voll angemüdet heute im Unterricht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der ist leicht angetrunken, aber noch in Ordnung.",
+    "output": "Der ist leicht angenüchtert, aber noch okay."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser Mann ist sehr unattraktiv, kein Mädchen mag ihn.",
+    "output": "Der Typ ist so ein Antimuschi, kein Mädel mag den."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Entschuldigung, dein Etikett schaut aus der Hose heraus.",
+    "output": "Ey, dein Arschfax schaut raus!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich fahre lieber nicht mit der U-Bahn.",
+    "output": "Ich steig lieber nicht in den Assi-Schlauch."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der ungezogene Junge macht wieder Ärger.",
+    "output": "Der kleine Assizwerg macht wieder Trouble."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war wirklich einwandfrei, Alter!",
+    "output": "Das war mal wieder astrein, Alter!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist wirklich furchtbar, ich hasse das!",
+    "output": "Das ist so ätzend, ich hasse das!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist selten toll, ich lüge nicht!",
+    "output": "Das ist mal wieder ätzend gut, no cap!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Lass uns heute entspannt abhängen.",
+    "output": "Lass uns auf Lock chillen heute."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der ist bekifft, schau ihn dir an.",
+    "output": "Der ist voll auf Strafnis, guck ihn dir an."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich muss erst noch Mascara auflegen.",
+    "output": "Ich muss erst noch den Augenteer auflegen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Wir regeln das jetzt wie echte Gangster.",
+    "output": "Azzlack-Modus an, wir regeln das!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er tut so, als wäre er ein Gangster, aber zuhause ist er brav.",
+    "output": "Der macht einen auf Azzlack, aber zuhause ist der brav."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ihr Auftritt war wirklich herausragend!",
+    "output": "Ihr Auftritt war voll babamäßig!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Anführer hat das Wort.",
+    "output": "Der Babo hat das Wort."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist der Chef in unserem Viertel.",
+    "output": "Er ist der Babo in unserem Block."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "In dieses Mädchengymnasium gehe ich nicht.",
+    "output": "Backfischaquarium? Da geh ich nicht hin."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist mein Liebster, mir wichtiger als alle anderen.",
+    "output": "Er ist mein bae, vor allen anderen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Wir haben heute ausgelassen gefeiert bis tief in die Nacht.",
+    "output": "Wir haben heute Bambule gemacht bis tief in die Nacht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat mal wieder mit jemandem geschlafen, kein Problem.",
+    "output": "Er hat mal wieder gebangen, kein Stress."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich vermisse dich so sehr.",
+    "output": "Ich bang so sehr nach dir, Digga."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Anführer hat mal wieder das Sagen.",
+    "output": "Baro hat mal wieder das Sagen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat mal wieder falsche Angaben im Meeting gemacht.",
+    "output": "Der hat mal wieder gebärbockt im Meeting."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich habe Kaffee und eine Zigarette als Frühstück genommen.",
+    "output": "Bauarbeiterfrühstück bestellt – Kaffee und Kippe."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich fahre heute mit meinem Auto mit lauter Musik an den See.",
+    "output": "Ich fahr heute mit meiner Beatkiste an den See."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat mich sehr gelobt, das war süß.",
+    "output": "Er hat mich voll benicet, das war süß."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Obdachlose schlafen dort hinten im Park.",
+    "output": "Berber schlafen da hinten im Park."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich möchte einen Wollteppich für mein Wohnzimmer.",
+    "output": "Ich will einen Berber für mein Wohnzimmer."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Hol mal das Bürstengerät raus, der Schlagzeuger wartet.",
+    "output": "Hol mal den Besen raus, der Schlagzeuger wartet."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Schade, das Lokal ist eine Besenwirtschaft in Stuttgart.",
+    "output": "Schade, das Lokal ist ein Besen in Stuttgart."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du kannst mich mal, du Idiot!",
+    "output": "Du kannst mich mal, du Besen!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ey, der wird in der Schule von allen gemobbt.",
+    "output": "Ey Digga, der ist voll der Besen in der Schule."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das billige Outfit kannst du wegwerfen.",
+    "output": "Das Billo-Outfit kannst du wegschmeißen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser Typ ist wirklich ein Idiot.",
+    "output": "Der Typ ist so ein Billo."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat mal wieder mit seinen Zimmerpflanzen gesprochen.",
+    "output": "Der hat mal wieder Blumentherapeut gespielt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Was ist das für eine Biene, so schön!",
+    "output": "Was ist das für eine Blütensimse, so schön!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das Spiel funktioniert nicht mehr richtig.",
+    "output": "Das Spiel bockt nicht mehr."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er verhält sich mal wieder widerspenstig.",
+    "output": "Er bockt mal wieder voll."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das macht so viel Spaß, ich spiele den ganzen Tag!",
+    "output": "Das bockt so krass, ich zock den ganzen Tag!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Meine Ziege ist brünstig.",
+    "output": "Mein Ziegenbock bockt wieder."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er langweilt sich zuhause.",
+    "output": "Er bockt sich zuhause."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Preise hier sind mal wieder unglaublich schlecht!",
+    "output": "Die Preise hier sind mal wieder bodenlos!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser ältere Mensch mit veralteten Ansichten versteht das nicht.",
+    "output": "Alter Boomer, der blickt das nicht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist so jemand mit veralteten Ansichten, immer am Meckern.",
+    "output": "Er ist so ein Boomer, immer am Meckern."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Brainbug aus Starship Troopers ist so unheimlich.",
+    "output": "Brainbug aus Starship Troopers ist so creepy."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Anführer unserer Gruppe hat das entschieden.",
+    "output": "Der Brainbug unserer Gruppe hat das entschieden."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich suche schon ewig nach diesem schwer zu findenden Fehler im Code.",
+    "output": "Ich suche schon ewig nach dem Brainbug in diesem Code."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Kumpel, wie geht es dir?",
+    "output": "Bratan, was geht?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Was ist los, Bruder?",
+    "output": "Was ist los, Bre?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie hat kurz erbrochen, dann war sie wieder fit.",
+    "output": "Sie hat kurz gebreiern müssen, dann war sie wieder fit."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war mal wieder ein Highlight auf der Party!",
+    "output": "Das war mal wieder ein Bringer auf der Party!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist mal wieder emotional erschöpft nach dem Urlaub.",
+    "output": "Er ist mal wieder broke sein nach dem Urlaub."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Grillbudenverkäufer hat mir meinen Burger falsch gemacht.",
+    "output": "Der Brutzelbube hat mir meinen Burger falsch gemacht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich brauche heute Abend meinen Joint.",
+    "output": "Ich brauch heute Abend meinen Bubatz."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich drehe mir einen Cannabis-Joint.",
+    "output": "Ich dreh mir einen Bubatz."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist mal wieder schlecht und schäbig.",
+    "output": "Das ist mal wieder Bumms."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Lass uns zum Fastfood-Restaurant gehen!",
+    "output": "Lass uns zur Burgerbude gehen!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der übergewichtige Typ passt nicht mehr durch die Tür.",
+    "output": "Alter Buttergolem, der passt nicht mehr durch die Tür."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Was willst du, Junge?",
+    "output": "Was willst du, Chabo?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das Mädchen dort drüben ist wirklich süß.",
+    "output": "Die Chaya da drüben ist voll süß."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Bleib mal locker, reg dich nicht auf!",
+    "output": "Chill mal deine Base, Digga!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich bin total fertig, ich muss mich draußen an der Ecke aufhalten.",
+    "output": "Ich bin total durch, ich muss cornern."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist so krass und fett, Alter!",
+    "output": "Das ist so crassus, Alter!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist mal wieder so peinlich, ich kann nicht hinschauen.",
+    "output": "Das ist mal wieder cringe, ich kann nicht hinschauen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das Spiel ist wirklich toll!",
+    "output": "Das Spiel ist so crispy!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Boah, das war wirklich krass!",
+    "output": "Cüs, das war der Hammer!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Darf er das wirklich? Er hat einfach mein Essen gegessen!",
+    "output": "Darf er so? Der hat einfach mein Essen gegessen!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist seltsam, ich habe keine Meinung dazu.",
+    "output": "Das crazy, ich hab' keine Meinung dazu."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie ist so wahnhaft, sie denkt er liebt sie.",
+    "output": "Sie ist so delulu, sie denkt er liebt sie."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sehr viel Arbeit heute.",
+    "output": "Derbe viel Arbeit heute."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Heute Abend masturbieren.",
+    "output": "Die Schlange würgen heute Abend."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Kumpel, was ist bei dir los?",
+    "output": "Digga, was geht ab bei dir?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat dem Typ Drogen verabreicht.",
+    "output": "Er hat den Typ mal richtig draufgeschickt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war heute ein totaler Misserfolg.",
+    "output": "Das war ein totaler Dumfall heute."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich bin heute völlig erschöpft.",
+    "output": "Ich bin heute voll durch."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser Typ ist wirklich verrückt.",
+    "output": "Der Typ ist echt durch."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich hatte kurz sehr flüssigen Durchfall.",
+    "output": "Ich hab' mal kurz einen Durchi gehabt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Nach dem Festival hat er zwei Tage durchgefeiert.",
+    "output": "Nach dem Festival war er der Durchi der Gruppe."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich melde mich kurz krank.",
+    "output": "Ich mach mir mal kurz einen E-Card-Urlaub."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das Parfüm riecht billig und aufdringlich.",
+    "output": "Das Parfüm ist mal wieder Éau de WC."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat sich mal wieder selbst im Internet gesucht.",
+    "output": "Er hat mal wieder gegosurft."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du bist ein verlässlicher Freund, du hast mir wirklich geholfen!",
+    "output": "Ehrenmann, du hast mir wirklich geholfen!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Sitzheizung in meinem Auto ist super.",
+    "output": "Der Eierkocher in meinem Auto ist super."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser Typ ist so verklemmt und steif.",
+    "output": "Einen Stock im Arsch haben, der Typ ist so steif."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat ein Piercing im Gesicht.",
+    "output": "Er hat ein Eisenpickel im Gesicht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie hat eine Zahnspange, aber das wird bald besser.",
+    "output": "Sie hat Eisenzähne aber es wird bald besser."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist das Coolste vom Coolsten!",
+    "output": "Das ist end la ser, das Geilste vom Geilsten!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser Typ ist wirklich dumm.",
+    "output": "Der ist voll enthirnt, der Typ."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Party wird gerade richtig ausgelassen!",
+    "output": "Die Party eskaliert gerade richtig!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das Problem wird jetzt in der Hierarchie weitergegeben.",
+    "output": "Das Projekt wird jetzt eskaliert."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du netter Trottel, was machst du da?",
+    "output": "Du Eumel, was machst du da?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "In meiner Decke ist ein Staubfussel.",
+    "output": "In meiner Decke ist ein Eumel."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich bekomme extreme Gänsehaut von dem Film!",
+    "output": "Ich bekomme Gänsehoden von dem Film!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war mal wieder eine extreme Missgeburt von einer Situation.",
+    "output": "Das war mal wieder so ein Geburtsfehlermiss."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er beendet die Beziehung nur über Textnachrichten.",
+    "output": "Er ist mal wieder exting statt zu reden."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Schönheitschirurg hat ihr zehn Jahre jünger gemacht.",
+    "output": "Der Faltenkiller hat ihr zehn Jahre runtergemacht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist wirklich bekannt in der Schule.",
+    "output": "Er ist voll fame in der Schule."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat mal wieder geheiratet.",
+    "output": "Der hat mal wieder den Fangriemen umgelegt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich schätze das wirklich sehr!",
+    "output": "Ich feiere das so sehr!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist ein großartiges, beeindruckendes Auto!",
+    "output": "Fett, das Auto von dem!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das Konzert war wirklich beeindruckend!",
+    "output": "Das Konzert war fett!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Text ist sehr fett gedruckt.",
+    "output": "Der Text ist voll fett gedruckt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Boden ist sehr fruchtbar hier.",
+    "output": "Der Boden ist fett hier."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das finde ich wirklich toll, das ist großartig!",
+    "output": "Ich feier' das total, das ist fett!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war wirklich unverschämt von dir!",
+    "output": "Das war fett unverschämt von dir!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist wirklich betrunken nach Silvester.",
+    "output": "Er ist voll fett nach dem Silvester."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Lösch Facebook, ich bin auf vernünftigen Plattformen.",
+    "output": "Schmeiss das Fetzbook, ich bin auf richtigen Plattformen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich gehe nicht mehr ins Kino.",
+    "output": "Ich geh nicht auf Filmodrom mehr."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Person namens Finn hat uns gerettet wie Aschenputtel!",
+    "output": "Finderella hat uns gerettet!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das passt, Bruder!",
+    "output": "Das geht fit, Bruder!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist Chirurg, der kann alles reparieren.",
+    "output": "Der ist Fleischdesigner, der kann alles reparieren."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er prahlt mal wieder mit seinen neuen Schuhen.",
+    "output": "Er flexed mal wieder mit seinen neuen Kicks."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er spannt seine Muskeln auf der Bühne an.",
+    "output": "Er ist beim Flexen auf der Bühne."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die zwei hatten heute Nacht Sex.",
+    "output": "Die zwei haben geflext heute Nacht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich sage dir das wirklich, ich glaube dir das.",
+    "output": "Fr, ich glaube dir das wirklich."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Guten Morgen, ehrwürdige Nonne!",
+    "output": "Guten Morgen, Frau Pinguin!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser Ideendieb hat mal wieder meine Ideen gestohlen.",
+    "output": "Der Fremdefedernsammler hat mal wieder meine Ideen geklaut."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich brauche nach dem Sport etwas zu trinken.",
+    "output": "Ich brauch einen Fresher nach dem Sport."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Fick dich, ich will das nicht hören.",
+    "output": "FU, ich will das nicht hören."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich habe einen Arschtritt bekommen.",
+    "output": "Ich hab' einen Fußtaxi gekriegt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Alter, bei dem Film hatte ich extreme Gänsehaut!",
+    "output": "Alter, ich hab' Gänsehoden gekriegt bei dem Film!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich habe meinen geliebten Freund heute sehr gelobt.",
+    "output": "Ich hab' Habibi voll benicet heute."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Was ist los, mein Freund?",
+    "output": "Was geht, Habibi?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Wahrheit oder Lüge, das ist hier die Frage.",
+    "output": "Hak oder nicht Hak, das ist hier die Frage."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die zwei sind ein sehr inniges Liebespaar.",
+    "output": "Die zwei sind wie Hänsel und Gretel."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Möchtest du einen kleinen Happen davon?",
+    "output": "Magst du ein Häppchen davon?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich habe nur wenig für die Prüfung gelernt.",
+    "output": "Ich hab' nur ein Häppchen gelernt für die Prüfung."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Eine glückliche Nation wäre das Ziel.",
+    "output": "Die Happy Nation wäre das Ziel."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er sammelt mal wieder Stimmen für die Wahl.",
+    "output": "Er häufelt mal wieder Stimmen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er muss mal auf die Toilette.",
+    "output": "Er muss mal häufeln gehen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser unhöfliche Mensch hat mal wieder Chaos gemacht.",
+    "output": "Der Hayvan hat mal wieder Chaos gemacht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sein Gehirn arbeitet auf Hochtouren.",
+    "output": "Sein Hirnkammer arbeitet auf Hochtouren."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Lehrer war heute wieder mal super.",
+    "output": "Der Hirnpimper war wieder mal super heute."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Gothic-gekleidete Person sieht mal wieder sehr auffällig aus.",
+    "output": "Der Homofürst der Finsternis sieht mal wieder krass aus."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Nach dem Grillen gibt es ein Bier!",
+    "output": "Nach dem Grillen gibt es einen Hopfensmoothie!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich bin gerade richtig verliebt!",
+    "output": "Ich bin voll hormongeflashed gerade!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie hat einen sehr faltenreichen Hintern.",
+    "output": "Der Hottentottenpopo von ihr ist legendär."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser harmlose Vollpfosten hat mal wieder Mist gebaut.",
+    "output": "Der Hübi hat mal wieder Mist gebaut."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist ein notgeiler Mann, immer hinterher.",
+    "output": "Er ist so ein Huru, immer hinterher."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du bist so eine egoistische Person.",
+    "output": "Du bist so eine Ich-AG."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist nur online mutig, aber im echten Leben traut er sich nichts.",
+    "output": "Er hat Interneteier aber IRL traut er sich nix."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie sieht wunderschön aus!",
+    "output": "Jackpotoptik, Alter, die ist so schön!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ja, ich bin dabei!",
+    "output": "Jep, ich bin dabei!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Singvogel im Käfig singt den ganzen Tag.",
+    "output": "Der Käfigtriller singt den ganzen Tag."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich muss zum Kieferorthopäden.",
+    "output": "Ich muss zum Kiefer-TÜV."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Meine Schwester ist schwanger.",
+    "output": "Meine Schwester hat Kindergrippe."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Deine Stereoanlage ist zu laut.",
+    "output": "Deine Klimperbox ist zu laut."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser gammelige Typ hat mal wieder im Park rumgehangen.",
+    "output": "Der Klitzmorchel hat mal wieder im Park rumgehangen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Überall im Viertel laufen identisch gekleidete Leute rum.",
+    "output": "Klonkumpels überall in diesem Viertel."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Meine Masseurin hat mir den Rücken massiert.",
+    "output": "Mein Knetmäuschen hat mir den Rücken massiert."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Diese Person, die sich zu ordentlich kleidet, nervt mit ihrem Dresscode.",
+    "output": "Die Knickerbockertucke nervt mit ihrem Dresscode."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Polizist hat uns angehalten.",
+    "output": "Der Knüppelknutscher hat uns angehalten."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist mal wieder richtig cool!",
+    "output": "Das ist mal wieder korall, Digga!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Was für eine hässliche Person, dieser Typ.",
+    "output": "Was ein Krapfengesicht, der Typ."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie ist schwanger.",
+    "output": "Die hat Kugelgrippe."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Diese ungebildete Person versteht keinen Humor.",
+    "output": "Die Kulturleiche versteht keinen Humor."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Schuss hat das erledigt.",
+    "output": "Der Kupferkuss hat das erledigt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Rückenstrecker beim Metzger ist frisch.",
+    "output": "Alter, der Lachs beim Metzger ist frisch."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du Streber, immer so artig.",
+    "output": "Du Lehrerliebchen, immer so streberhaft."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat mich mal wieder in die Irre geführt.",
+    "output": "Er hat mich mal wieder geleimed."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Was macht der da? Der betreibt doch nur eine bedeutungslose Aktion.",
+    "output": "Was macht der da? Der lenert doch nur."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Wirklich, ich kann das nicht glauben.",
+    "output": "Literally, ich kann das nicht glauben."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist rein auf sexuelle Befriedigung aus, ihm ist alles egal.",
+    "output": "Loch ist Loch, der interessiert sich nicht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich sammle kurz die Beute ein und dann weiter.",
+    "output": "Ich loot kurz und dann weiter."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du Trottel, hast du das wirklich nicht geschafft?",
+    "output": "Du Loser, hast du das wirklich nicht geschafft?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich mag das Lied ein bisschen, würde es aber nie zugeben.",
+    "output": "Lowkey mag ich das Lied."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ignoriert sie mal wieder komplett.",
+    "output": "Er schiebt ihr mal wieder Luft."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die rauchen mal wieder.",
+    "output": "Die rauchen mal wieder Lungenbräunen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich entspanne heute den ganzen Tag.",
+    "output": "Ich lurche heute den ganzen Tag."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er schläft schon die ganze Nacht.",
+    "output": "Er lurcht schon die ganze Nacht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er arbeitet mal wieder, wenn auch langsam.",
+    "output": "Er lurcht mal wieder statt zu arbeiten."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Diese Person hat das ohne Zögern umgesetzt.",
+    "output": "Der Macher hat das einfach durchgezogen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Seine Fußballmannschaft war mal wieder schlecht.",
+    "output": "Sein Männerballett war mal wieder schwach."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Diese Person, die rückständige Ansichten hat, nervt im Kommentar-Bereich.",
+    "output": "Der Mauerwiederaufbauer nervt im Kommentar-Bereich."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat mal wieder Mundgeruch.",
+    "output": "Der hat mal wieder Maulfäule."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist ein schlecht bezahlter Job, geht gar nicht.",
+    "output": "Das ist ein McJob, geht gar nicht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser Drogenabhängige ist mal wieder auf Entzug.",
+    "output": "Der Mehlschniefer ist mal wieder auf Entzug."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Beim Mobbing-Kreis wird eine Person von allen anderen ausgeschlossen.",
+    "output": "Beim Mobbing-Kreis muss einer in der Mitte stehen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ihr Fernseher läuft den ganzen Tag.",
+    "output": "Ihr moderner Volksempfänger läuft den ganzen Tag."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du Idiot, was machst du da?",
+    "output": "Du Mongo, was machst du da?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Skater fährt auf dem Skateboard mit dem falschen Fuß voran.",
+    "output": "Das Skateboard-Mongo nervt auf der Bahn."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er bewegt sich mal wieder leise.",
+    "output": "Er muckt mal wieder."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er macht Musik seit Jahren.",
+    "output": "Er macht Mucke seit Jahren."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er provoziert mich mal wieder.",
+    "output": "Er muckt mich mal wieder an."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Oma braucht ihren Rollator.",
+    "output": "Die Oma braucht ihre Mumienschubse."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die ältere Person, die an der Kasse mit Kleingeld zahlt, nervt.",
+    "output": "Der Münzzähler vor mir an der Kasse nervt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er möchte heute Nacht Sex haben.",
+    "output": "Er will mal wieder nageln heute Nacht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Ball wurde mit großer Wucht geschossen.",
+    "output": "Der Ball wurde mal wieder genagelt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich gehe kurz zum Nagelstudio.",
+    "output": "Ich geh' kurz Nägel nageln."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich mache heute Abend ein Nickerchen mit einem laufenden Film.",
+    "output": "Ich napflixe heute Abend."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist von Natur aus ein Nerd, da kann man nichts machen.",
+    "output": "Der ist nerdish bei Nature, keine Hoffnung."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich schwöre, das war der beste Abend!",
+    "output": "No cap, das war der beste Abend!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Schon wieder eine nervige Sprachnachricht, ich höre nicht zu.",
+    "output": "Noicemail schon wieder, ich hör nicht hin."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er verhält sich wieder passiv ohne eigenen Willen.",
+    "output": "NPC-Verhalten mal wieder."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ein erfahrener Respektierter ist hier, Respekt!",
+    "output": "OG im Haus, Respekt!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du alter, veralteter Mensch, ich rede nicht mehr mit dir.",
+    "output": "OK Boomer, ich red nicht mehr mit dir."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist mal wieder wirklich cool, Alter!",
+    "output": "Das ist mal wieder overdope, Alter!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war mal wieder fantastisch!",
+    "output": "Das war mal wieder papatastisch!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Kein Geld mehr nach dem Wochenende.",
+    "output": "Kein Para mehr nach dem Wochenende."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Anwältin hat mir einen Brief geschickt.",
+    "output": "Die Paragrafenschubse hat mir einen Brief geschickt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er leidet mal wieder unter Verfolgungswahn.",
+    "output": "Er schiebt mal wieder Paras."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du wirst immer rot im Gesicht, sei mutiger!",
+    "output": "Du Pavianarsch, immer so schüchtern!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Eine unbekannte Person hat das Urlaubsbild zerstört.",
+    "output": "Ein Photobomb hat das Urlaubsbild ruiniert."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Diese attraktive Frau dort drüben ist wirklich beeindruckend.",
+    "output": "Die Popptorte da drüben ist krass."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Auf der Toilette sitze ich gern.",
+    "output": "Auf dem Porzellansofa sitze ich gern."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie schminkt sich übermäßig stark.",
+    "output": "Sie ist eine Powder-Puff-Girl, immer geschminkt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Mein Auto ist ein Renault.",
+    "output": "Mein Auto ist ein Premium-Dacia."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Dorfpolizist hat uns angehalten.",
+    "output": "Der Provinzsheriff hat uns angehalten."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser Verschwörungstheoretiker glaubt mal wieder an Unsinn.",
+    "output": "Der Pyramidiot glaubt mal wieder an Unsinn."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich schlafe jetzt, bis dann!",
+    "output": "Ich geh' Quallen fischen, bis dann!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Hör auf, ständig dazwischenzureden!",
+    "output": "Hör auf zu querquasseln!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Frikadelle mit Senf bitte.",
+    "output": "Der Rambocracker mit Senf bitte."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser Medienstar ist mal wieder in den Nachrichten.",
+    "output": "Die Ramschikone ist mal wieder in den Nachrichten."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist mal wieder völlig zufällig und ohne Grund passiert.",
+    "output": "Das ist mal wieder total random."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Genau das denke ich auch!",
+    "output": "Rede! Genau das denk ich auch!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Was ein dummes Geschwätz dieser Typ.",
+    "output": "Was ein Rhabarbergelaber der Typ."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Meine Nase ist verstopft.",
+    "output": "Mein Riechorgan ist verstopft."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser Typ hat so viel Charisma und Charme.",
+    "output": "Der hat mal wieder Rizz ohne Ende."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich musste mich kurz übergeben.",
+    "output": "Ich musste mal kurz rückfrühstücken."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Typ mit osteuropäischem Hintergrund aus unserer Klasse ist cool.",
+    "output": "Der Ruzzlack aus unserer Klasse ist cool."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Natürlich, das mache ich.",
+    "output": "Safe, ich mach das."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Was für eine exzentrisch hässliche ältere Frau, die Nachbarin.",
+    "output": "Was eine Schabrackenbutze, die Nachbarin."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Schaufensterpuppe im Laden sieht elegant aus.",
+    "output": "Die Schaufensterpuppe im Laden sieht schick aus."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat wirklich hängende Hoden.",
+    "output": "Der hat mal wieder Schlepphoden."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich habe die stark übergewichtige Person gegrüßt.",
+    "output": "Ich hab den Schmalzgraben gegrüßt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Idiot hat mal wieder Unsinn geredet.",
+    "output": "Der Schmock hat mal wieder Mist geredet."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Trottel vor mir in der Schlange nervt.",
+    "output": "Der Schmock vor mir in der Schlange nervt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist mal wieder am Kokain schnupfen.",
+    "output": "Er ist mal wieder am Schniefen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat mal kurz Schleim aus der Nase gekratzt.",
+    "output": "Er hat mal kurz geschnopelt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich habe mal wieder Augenprobleme vom zu langen Bildschirm starren.",
+    "output": "Ich hab' mal wieder Screenitus."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich mache mal kurz ein Foto von mir selbst.",
+    "output": "Ich mach mal kurz ein Selfie."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Wow, das war mal wieder heftig!",
+    "output": "Sheesh, das war mal wieder heftig!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser missbilligende Seitenblick war brutal.",
+    "output": "Der Side Eye war brutal."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er zeigt mal wieder seinen missbilligenden Seitenblick.",
+    "output": "Der macht mal wieder einen auf Side Eye."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich bin ein cooler Einzelgänger, ich brauche niemanden.",
+    "output": "Sigma aktiviert, ich brauch niemanden."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist ein cooler Einzelgänger.",
+    "output": "Er ist ein echter Sigma, der Typ."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich bin jetzt im verrückten, coolen Modus!",
+    "output": "Skibidi Modus eingeschaltet!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist mal wieder bewundernswert, Alter!",
+    "output": "Das ist mal wieder Slay, Alter!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich schlafe mal wieder heimlich im Unterricht.",
+    "output": "Ich bin slearning wieder im Unterricht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Würdest du mit dieser Person etwas anfangen wollen, ja oder nein?",
+    "output": "Smash oder pass, was sagst du?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser sehr gefräßige Mensch ist mal wieder am Essen.",
+    "output": "Der ist mal wieder ein Snackosaurus."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist in sozialen Netzwerken nicht vorhanden.",
+    "output": "Er ist sozialtot, kein Instagram nichts."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Wir fahren mit einem Raumschiff zu den Sternen.",
+    "output": "Wir fahren Spacetaxi zu den Sternen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du Idiot, hast du das wirklich gemacht?",
+    "output": "Du Spast, hast du das wirklich gemacht?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Wirklich gut, Alter, gut gemacht!",
+    "output": "Stabil, Alter, richtig gut gemacht!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das Lied ist wirklich so großartig!",
+    "output": "Das Lied ist mal wieder so steil!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die übermäßig muskulöse Person im Fitnessstudio nervt.",
+    "output": "Die Steroidbeule im Gym nervt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist ein normaler heterosexueller Mann.",
+    "output": "Er ist voll ein Stino."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Person, die sich über ihre Kleidung definiert, kennt im Viertel jeden.",
+    "output": "Der Styler im Viertel kennt jeden."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich mache mal kurz ein Selfie mit hässlicher Grimasse.",
+    "output": "Ich mach mal kurz ein Suglie."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat mal wieder eine lässig-coole Ausstrahlung.",
+    "output": "Er hat mal wieder Swag."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Halt die Fresse, ich will nichts mehr hören!",
+    "output": "SYBAU, ich will nichts mehr hören!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich fahre mal etwas schneller.",
+    "output": "Ich fahr mal einen Tacken schneller."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich schreibe dir mal kurz eine Nachricht.",
+    "output": "Ich tackle dir mal kurz."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Diese Person trägt mal wieder nur günstige Kleidung.",
+    "output": "Der Takko-Lord hat mal wieder ein Sale-Outfit an."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Jugendliche mit stereotypem Aussehen und seine Freunde hängen wieder rum.",
+    "output": "Der Talahon und seine Freunde hängen wieder rum."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der winzige Hund meiner Nachbarin bellt den ganzen Tag.",
+    "output": "Die Taschenratte meiner Nachbarin bellt den ganzen Tag."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat mal wieder das ganze Geld verprasst.",
+    "output": "Er hat mal wieder tebartzt das ganze Geld."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Diese Person, die sich manchmal wie ein Affe verhält, macht wieder Stunts.",
+    "output": "Der Teilzeittarzan macht wieder Stunts."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie hat wirklich auffällige Kurven, kein Scherz.",
+    "output": "Die ist mal wieder thicc, kein Witz."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Stadtstreicher schläft auf einer Parkbank.",
+    "output": "Der Tingelbruder schläft auf einer Parkbank."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der tätowierte Kollege im Büro hat mehr Tattoos als Haare.",
+    "output": "Der Tintling im Büro hat mehr Tattoos als Haare."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Party war mal wieder langweilig und peinlich.",
+    "output": "Die Party war mal wieder tot."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das Meeting war heute wirklich langweilig.",
+    "output": "Das Meeting war voll tot heute."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war eine völlig chaotische Situation, keine Chance.",
+    "output": "Das war ein trainwreck, keine Chance."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Achtung, da ist Hundekot auf dem Bürgersteig.",
+    "output": "Achtung, Tretmine auf dem Bürgersteig."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das löst einen starken emotionalen Prozess in mir aus.",
+    "output": "Das triggert mich voll."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das löst den Alarm aus.",
+    "output": "Das triggert den Alarm."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das beeinflusst mich emotional sehr stark.",
+    "output": "Das triggert mich emotional, Digga."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Person, die Trolle steuert, schickt wieder ihre Leute los.",
+    "output": "Der Trollfarmer lässt seine Leute wieder los."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er macht mal wieder Versprechungen ohne an die Folgen zu denken.",
+    "output": "Er macht mal wieder Trumpeten."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war wirklich cool, ich lüge nicht!",
+    "output": "Das war tuff, no cap!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist so besessen von Pünktlichkeit, das nervt schon.",
+    "output": "Er ist so ein Uhrensohn, immer pünktlich!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dein Stil ist wirklich nicht gut.",
+    "output": "Dein Style ist voll uncool."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist mal wieder uncool, Alter.",
+    "output": "Das ist mal wieder unfly, Alter."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist mal wieder aus der Mode und uncool.",
+    "output": "Das ist mal wieder unkultig."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Definitiv, das war der beste Tag.",
+    "output": "Unlügbar, das war der beste Tag."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Den Burger ohne Belag habe ich auseinandergenommen.",
+    "output": "Das Vakuumburger hab ich auseinander genommen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er wirkt mal wieder völlig verwirrt und verpeilt.",
+    "output": "Der ist mal wieder verbuggt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das Spiel ist mal wieder fehlerhaft.",
+    "output": "Das Spiel ist mal wieder verbuggt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat ihn mal wieder zusammengeschlagen.",
+    "output": "Er hat ihn mal wieder verlattert."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du bist heute wirklich seltsam und eigenartig.",
+    "output": "Du bist voll verpeilt heute."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich bin mal wieder völlig verwirrt.",
+    "output": "Ich bin mal wieder verpeilt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Atmosphäre hier ist wirklich toll!",
+    "output": "Der Vibe hier ist so gut!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Stimmungsüberprüfung ist bestanden!",
+    "output": "Der Vibe Check ist bestanden!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich brauche meinen Selfie-Stick für das Foto.",
+    "output": "Ich brauch meine Vollpfostenantenne für das Selfie."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ein kompletter Idiot ist am Werk, was erwartest du?",
+    "output": "Vongo am Werk, was erwartest du?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Win! Das war wirklich gut gemacht!",
+    "output": "W, das war wirklich gut gemacht!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Bei Gott, das habe ich nicht gemacht!",
+    "output": "Wallah, ich hab das nicht gemacht!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich verschwende mal kurz Zeit.",
+    "output": "Ich wast' mal kurz Zeit."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er geht mal auf die Toilette für ein großes Geschäft.",
+    "output": "Er geht mal wegwursten."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du Feigling, trau dich mal!",
+    "output": "Du Weichkeks, trau dich mal!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Was gibt's Neues, Kumpel?",
+    "output": "What's poppin', Digga?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war so verrückt gestern, Alter!",
+    "output": "Das war so wild gestern, Alter!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Burger King schon wieder, nicht mein Lieblingsessen.",
+    "output": "Würger King schon wieder, nicht mein Lieblingsessen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist vorbei, die Diskussion ist beendet.",
+    "output": "Xalas, die Diskussion ist vorbei."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Beeil dich, wir müssen jetzt gehen!",
+    "output": "Yallah, wir müssen los jetzt!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Oh toll, noch mehr Arbeit. (ironisch)",
+    "output": "Yay, noch mehr Arbeit."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Man lebt nur einmal, ich mache das einfach!",
+    "output": "YOLO, ich mach das einfach!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Hey, was ist los?",
+    "output": "Yurr, was geht?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ja, ich bin dabei!",
+    "output": "Yurr, ich bin dabei!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Jemanden mit Nachrichten überhäufen geht gar nicht.",
+    "output": "Zuschottern geht gar nicht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Eine Petze ist in der Gruppe, pass auf!",
+    "output": "31er in der Gruppe, pass auf!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich bin kurz weg vom Computer, gleich bin ich wieder da.",
+    "output": "Ich bin kurz AFK, gleich bin ich wieder da."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Bruder, kommst du heute zum Training?",
+    "output": "Akh, kommst du heute zum Training?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Der Löwe hat heute das Spiel gewonnen.",
+    "output": "Aslan hat heute das Spiel gewonnen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist schon wieder neidisch auf mich.",
+    "output": "Er macht mal wieder Auge machen auf mich."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das hat deine Ausstrahlung um hundert Punkte erhöht!",
+    "output": "Aura plus hundert für den Move!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Okay, ja, das machen wir!",
+    "output": "Aywa, das machen wir!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Oh mein Gott, das war unerwartet!",
+    "output": "Bomboclat, das war unerwartet!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat so eine luxuriöse und abgehobene Wohnung.",
+    "output": "Der hat so eine boujee Wohnung."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich bin abgestumpft durch zu viel TikTok-Konsum.",
+    "output": "Ich hab' voll Brainrot von TikTok."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist nur Klick-Köder, fall nicht drauf rein.",
+    "output": "Clickbait mal wieder, fall nicht drauf rein."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Boah, das war so krass!",
+    "output": "Cüs, das war so krass!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist seltsam, ich sage nichts dazu.",
+    "output": "Das crazy, ich sag' nix dazu."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie hat völlig unrealistische Vorstellungen, kein Scherz.",
+    "output": "Sie ist total delulu, kein Witz."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Hey, sei mal etwas zurückhaltender und bescheidener.",
+    "output": "Hey, demure mal etwas."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Kumpel, das war wirklich nicht in Ordnung!",
+    "output": "Digga, das war nicht okay!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er prahlt mal wieder.",
+    "output": "Er flexed mal wieder."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Angst, etwas zu verpassen, hat mich gepackt, ich gehe doch hin.",
+    "output": "FOMO hat mich gepackt, ich geh jetzt doch hin."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Wir sind Freunde mit gewissen Vorzügen gerade.",
+    "output": "FWB-Situation gerade."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war souveränes Auftreten, Respekt!",
+    "output": "Gigachad-Verhalten, respect!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat plötzlich und ohne Erklärung den Kontakt abgebrochen.",
+    "output": "Er hat mal wieder geghosted."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Mit kreativer Schönrechnerei habe ich den Kauf gerechtfertigt.",
+    "output": "Girl Math, deswegen hab ich's gekauft."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat sich so positiv verändert, ich erkenne ihn kaum wieder.",
+    "output": "Glow-up komplett, erkenn ihn kaum wieder."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist der Beste des Teams.",
+    "output": "Er ist der GOAT des Teams."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er befriedigt sich mal wieder exzessiv in seinem Zimmer.",
+    "output": "Er goont mal wieder in seinem Zimmer."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Oh mein Gott, sie ist wirklich beeindruckend.",
+    "output": "GYAT, die ist beeindruckend."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich habe mal kurz meinen Einkauf vorgezeigt.",
+    "output": "Ich hab' mal kurz einen Haul gezeigt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Mit Sicherheit nicht, das mache ich nicht!",
+    "output": "Hölle nein, das mach ich nicht!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er arbeitet täglich hart für seinen Erfolg.",
+    "output": "Er hustled täglich für seinen Erfolg."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieses Verhalten finde ich abstoßend.",
+    "output": "Das ist ein Ick für mich."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "So Gott will, klappt das morgen.",
+    "output": "Inshallah, klappt das morgen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Im echten Leben ist das ganz anders.",
+    "output": "IRL ist das ganz anders."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Wer dabei war, weiß was gestern passiert ist.",
+    "output": "IYKYK, was gestern passiert ist."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du einfältiger Mensch, lass dich nicht so ausnutzen!",
+    "output": "Du Lelek, lass dich nicht so ausnutzen!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Party gestern war wirklich großartig!",
+    "output": "Das war lit, die Party gestern!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich kann das wirklich tatsächlich nicht.",
+    "output": "Literally ich kann das nicht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Wie Allah will, was eine beeindruckende Leistung!",
+    "output": "Mashallah, was eine Leistung!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser Mensch ist so faul, er bewegt sich nicht.",
+    "output": "Der ist so miskin, der bewegt sich nicht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Auf gar keinen Fall, das kommt nicht infrage.",
+    "output": "Nein Pascal, ich denke nicht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er verdankt seinen Erfolg vollständig seinen Eltern.",
+    "output": "Er ist ein echtes Nepo Baby."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich lüge nicht, das war wirklich so!",
+    "output": "No cap, das war so!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du Anfänger, lern erstmal das Spiel!",
+    "output": "Du Noob, lern erstmal das Spiel!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Nein, da mache ich nicht mit.",
+    "output": "Nope, da mach ich nicht mit."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser Inhalt ist nicht für die Arbeit geeignet.",
+    "output": "NSFW-Content, nicht bei der Arbeit öffnen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie präsentiert ihr heutiges Outfit.",
+    "output": "OOTD präsentiert von ihr heute."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist mein Feind, pass auf ihn auf.",
+    "output": "Er ist mein Opp, pass auf ihn auf."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Diese zwei sind das perfekte Traumpaar für immer.",
+    "output": "OTP für immer, die zwei."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war's, das Gespräch ist beendet.",
+    "output": "Xalas, das Gespräch ist beendet."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist mal wieder langes, überflüssiges Gerede.",
+    "output": "Das ist mal wieder Palaver."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich habe kein Geld mehr.",
+    "output": "Ich hab kein Patte mehr."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Hey Schatzi, wie geht es dir?",
+    "output": "Hey Pookie, wie geht es dir?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Pyrotechnik rein, jetzt starten wir!",
+    "output": "Pyrotechnik rein, jetzt geht's los!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist mal wieder darauf ausgelegt, Leute zu provozieren.",
+    "output": "Das ist mal wieder Ragebait."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er geht unvorbereitet durch den Alltag.",
+    "output": "Er rawdoggt den Alltag ohne Plan."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Genau das! Auf jeden Fall!",
+    "output": "Rede! So isses!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Warnsignal, dieser Typ meldet sich nie.",
+    "output": "Red Flag, der meldet sich nie."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich gestehe, das war mein Fehler.",
+    "output": "Schere, das war mein Fehler."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser erfolgreiche Einzelgänger lebt nach seinen eigenen Regeln.",
+    "output": "Sigma-Mann lebt nach seinen eigenen Regeln."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er vergöttert sie ohne Gegenliebe.",
+    "output": "Er simpt so sehr für sie."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Six Seven, sieben! (humorvolle Unterbrechung)",
+    "output": "Six Seven, sieben!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das schüttelt mir den Kopf vor Unglauben.",
+    "output": "Das ist SMH-Niveau."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du Petze, du hast uns verraten!",
+    "output": "Du Snitch, du hast uns verraten!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Erzähl den Klatsch, was ist los?",
+    "output": "Spill the tea, was ist los?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich kämpfe mal wieder mit dem Projekt.",
+    "output": "Ich struggle mal wieder mit dem Projekt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Okay, alles in Ordnung.",
+    "output": "Tamam, alles klar."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war eine langweilige, peinliche Party.",
+    "output": "Das war tot, diese Party."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war wirklich beeindruckend, kein Scherz.",
+    "output": "Das war tuff, kein Witz."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Die Atmosphäre hier ist wirklich großartig.",
+    "output": "Vibe hier ist mega."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Bei Gott, ich schwöre das!",
+    "output": "Wallah, ich schwör das!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist sehr politisch sensibel, der diskutiert alles.",
+    "output": "Er ist woke, der diskutiert alles."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Was zur Hölle, was ist das?",
+    "output": "WTF, was ist das?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Beeil dich, komm schon!",
+    "output": "Yallah, beeil dich!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Also, ich meine das folgendermaßen.",
+    "output": "Yani, ich mein das so."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ja klar, ich bin dabei!",
+    "output": "Yessirski, ich bin dabei!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war wirklich etwas zum Erschaudern.",
+    "output": "Yikes, das war peinlich."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Man lebt nur einmal, Bruder!",
+    "output": "YOLO, Bro!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Hey, was ist los!",
+    "output": "Yurr, was ist los!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sechs-Sieben! (Humorvolle Unterbrechung bei einer Zahl)",
+    "output": "6-7! Sieben nochmal!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "41, das ist die Antwort darauf!",
+    "output": "41, das passt hier!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist wirklich ästhetisch ansprechend.",
+    "output": "Das ist voll Aesthetic."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist extrem heiß heute!",
+    "output": "Das ist AF heiß heute!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieses Video mit beruhigenden Geräuschen hat mich entspannt.",
+    "output": "Das ASMR-Video hat mich entspannt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie sieht wirklich gut aus und ist sehr selbstbewusst.",
+    "output": "Sie ist eine echte Baddie."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du bist so vorhersehbar und dem Mainstream folgend.",
+    "output": "Du bist so Basic."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Hey Babe, wie geht es dir?",
+    "output": "Hey BB, wie geht's?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser Typ strahlt eine enorme ruhige Selbstsicherheit aus.",
+    "output": "Der strahlt BDE aus."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich liege heute stundenlang im Bett und schaue Serien.",
+    "output": "Ich bin heute im Bed-rot-Modus."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist weder gut noch schlecht, einfach nur seltsam.",
+    "output": "Das ist eine Beige Flag."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Hey beste Freundin, was ist los?",
+    "output": "Hey Bestie, was geht?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Alles klar, ich komme vorbei.",
+    "output": "Bet, ich komm vorbei."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das sieht unheimlich und chaotisch aus.",
+    "output": "Das sieht Biblically accurate weird aus."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sehr wütend über das Ergebnis.",
+    "output": "Big mad über das Ergebnis."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist das Vorbild für alle anderen.",
+    "output": "Der ist der Blueprint für alle anderen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Mit wie vielen Personen hat er geschlafen?",
+    "output": "Was ist sein Body Count?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Hey Schatz, ich vermisse dich.",
+    "output": "Hey Boo, vermiss dich."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie ist eine sexuell freizügige Frau.",
+    "output": "Sie ist eine Bop."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich bin gerade dabei loszufahren.",
+    "output": "Ich bin boutta losfahren."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dieser mindere Content hat mich wirklich verdummt.",
+    "output": "Ich hab' voll Brain Rot von dem Content."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er gibt mir seit Wochen nur minimale Aufmerksamkeit.",
+    "output": "Er breadcrumbt mich seit Wochen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Bruder, das kann nicht sein.",
+    "output": "Bruh, das kann nicht sein."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das Essen ist wirklich köstlich!",
+    "output": "Das Essen ist voll bussin'!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Lügst du oder sagst du die Wahrheit?",
+    "output": "Cap oder no cap?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das habe ich mir selbst dazugedacht.",
+    "output": "Das ist Headcanon von mir."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er wurde aus der Gemeinschaft ausgeschlossen wegen seines Verhaltens.",
+    "output": "Er wurde gecancelt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich entwickle Gefühle für ihn.",
+    "output": "Ich catch Feels für ihn."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat sich mir gegenüber online als jemand anderes ausgegeben.",
+    "output": "Er hat mich catgefisht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er wurde mit Beweis beim Lügen ertappt!",
+    "output": "Caught in 4k, er hat gelogen!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie ist die Person, die immer zu spät kommt.",
+    "output": "Sie ist CEO of being late."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Zuschauer, was denkt ihr?",
+    "output": "Chat, was denkt ihr?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das sind veraltete Millennial-Trends, diese Skinny Jeans.",
+    "output": "Sehr cheugy, diese Skinny Jeans."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Entspann dich, das war kein Problem.",
+    "output": "Chill, das war kein Problem."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das war eine schlagfertige Antwort!",
+    "output": "Guter Clapback!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich habe ihn durchschaut.",
+    "output": "Ich hab' ihn geclocked."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat wirklich viel sozialen Einfluss.",
+    "output": "Er hat voll Clout."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das hat voll die Merkmale von etwas bestimmtem.",
+    "output": "Das ist voll -coded."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich bin nach dem Training völlig erschöpft.",
+    "output": "Ich bin cooked nach dem Training."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Lass ihn machen, das wird gut werden!",
+    "output": "Let them cook, das wird gut!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Emotional instabil handeln wegen dem Stress.",
+    "output": "Crash out wegen dem Stress."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das hat so schlechte Energie, Alter.",
+    "output": "Das ist so cursed, Alter."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie hat mich romantisch abgewiesen.",
+    "output": "Sie hat mich gecurved."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er übertreibt mal wieder total.",
+    "output": "Er macht mal wieder Doing the most."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Richtig cooles Outfit heute!",
+    "output": "Krasser Drip heute!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich befinde mich in meiner selbstbewussten, rücksichtslosen Phase.",
+    "output": "Ich bin in meiner Villain Era."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du bist so übertrieben und dramatisch!",
+    "output": "Du bist so extra!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das stimmt, genau so ist das!",
+    "output": "Facts, genau so ist das!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Hey ihr engen Freunde, was ist los?",
+    "output": "Hey Fam, was geht?"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich werde gleich essen gehen.",
+    "output": "Ich finna essen gehen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich schaue auf meinen privaten Instagram-Account.",
+    "output": "Ich check mein Finsta."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist mal wieder großartig!",
+    "output": "Das ist mal wieder Fire!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Dein Outfit heute ist wirklich gut.",
+    "output": "Dein Fit heute ist on point."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Zeig mal dein neues Handy vor.",
+    "output": "Flex mal mit deinem neuen Handy."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist schwul, das ist offensichtlich.",
+    "output": "Der ist fruity, klar."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie hat meine Realitätswahrnehmung manipuliert.",
+    "output": "Sie gasliighted mich komplett."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat plötzlich ohne Erklärung den Kontakt abgebrochen.",
+    "output": "Er hat mal wieder ghosted."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich esse heute Abend aus wahllosen Snacks.",
+    "output": "Girl Dinner heute Abend."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er schmeichelt dem Chef übertrieben.",
+    "output": "Er glazed den Chef komplett."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Alles ist gut hier.",
+    "output": "Alles gucci hier."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Oh Gott, sie ist wirklich beeindruckend!",
+    "output": "Gyatt, sie ist beeindruckend!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich bin wirklich verliebt.",
+    "output": "Highkey verliebt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich habe heimlich etwas Hunger.",
+    "output": "Lowkey hab ich Hunger."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Honey, das war wirklich nicht okay!",
+    "output": "Hunty, das war nicht okay!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das gibt mir Hauptfigur-Vibes.",
+    "output": "It's giving main character energy."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Diese Frau, die sich grundlos beschwert, nervt im Restaurant.",
+    "output": "Diese Karen nervt im Restaurant."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Du hast es wirklich drauf, Alter!",
+    "output": "Läuft bei dir, Alter!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat meine Nachricht gelesen aber nicht geantwortet.",
+    "output": "Er hat mich left on read."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Völlig fokussieren für das Projekt.",
+    "output": "Lock in für das Projekt."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich versuche intensiv mein Aussehen zu verbessern.",
+    "output": "Ich bin voll am Looksmaxxen."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich fühle mich heute wie die Hauptfigur!",
+    "output": "Main Character Energy heute!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich habe gerade fast einen mentalen Zusammenbruch.",
+    "output": "Ich hab' einen Menty B gerade."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist wirklich nur durchschnittlich.",
+    "output": "Das ist so mid."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das trifft es, ich auch.",
+    "output": "Mood, ich auch."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Auf gar keinen Fall mache ich das.",
+    "output": "Nein Pascal, das mach ich nicht."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist so seltsam und verstörend.",
+    "output": "Das ist so Ohio."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Punkt. Ende der Diskussion.",
+    "output": "Period. Basta."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie sucht verzweifelt Aufmerksamkeit von Männern indem sie betont wie anders sie ist.",
+    "output": "Sie ist so ein Pick-me Girl."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Stell dir vor, du bist zu spät.",
+    "output": "POV: du bist zu spät."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist mal wieder verärgert.",
+    "output": "Er ist mal wieder pressed."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich denke ständig an ihn.",
+    "output": "Er ist mein Roman Empire."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich sehe die zwei als perfektes Paar.",
+    "output": "Ich shippe die zwei."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist wirklich so gut!",
+    "output": "Das slaps so krass!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist wirklich eine attraktive Person.",
+    "output": "Er ist ein echter Snack."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie sieht heute perfekt aus!",
+    "output": "Sie ist so snatched heute!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er ist ein übertriebener Fan von ihr.",
+    "output": "Er ist ein echter Stan von ihr."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Erzähl den Klatsch!",
+    "output": "Spill the tea!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ein verführerisches Foto gepostet.",
+    "output": "Thirst Trap gepostet."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Geh mal wieder raus in die echte Welt.",
+    "output": "Touch grass mal wieder."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat seine Spielfigur eliminiert.",
+    "output": "Er hat sich unalivet in dem Spiel."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Sie hat alles perfekt verstanden und erledigt!",
+    "output": "Understood the assignment, sie war die Beste!"
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Das ist gerechtfertigt, ich verstehe das.",
+    "output": "Das ist valid, ich versteh das."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Reden ohne Inhalt, immer am Reden.",
+    "output": "Yap yap yap, immer am Reden."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Er hat den Kontakt abgebrochen und taucht nach Wochen wieder auf.",
+    "output": "Er ist ein Zombie, taucht nach Wochen wieder auf."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Ich habe gerade Angst etwas zu verpassen.",
+    "output": "Ich hab' voll FOMO gerade."
+  },
+  {
+    "instruction": "Übersetze den folgenden deutschen Satz in Jugendsprache.",
+    "input": "Wie viel Charme und Charisma hat er?",
+    "output": "Was ist sein Rizz-Level?"
+  }
+]
