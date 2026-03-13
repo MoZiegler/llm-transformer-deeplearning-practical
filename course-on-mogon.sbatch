@@ -7,6 +7,9 @@
 #SBATCH --time=24:00:00
 #SBATCH -J jupyter-course
 #SBATCH -o jupyter-%j.out
+
+export SLURM_CLUSTERS=mogonki
+export SBATCH_CLUSTERS=mogonki
  
 module load tools/Apptainer
  
